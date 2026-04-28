@@ -15,6 +15,8 @@ Who their customers are
 Which channels drive the most sales
 What regions perform best
 How orders are being fulfilled
+
+
 🛠️ Tools & Techniques
 Microsoft Excel
 Pivot Tables
@@ -23,6 +25,8 @@ Slicers & Interactive Filters
 Data Cleaning
 Exploratory Data Analysis (EDA)
 Dashboard Design
+
+
 🔄 Data Analysis Workflow
 1. Data Cleaning
 Removed duplicates and inconsistencies
@@ -43,6 +47,8 @@ Integrated slicers for dynamic filtering:
 Category
 Channel
 Month
+
+
 📊 Key Insights
 👩 Women contribute 49% of total sales
 👨‍👩‍👧 Adults are the primary customer segment
@@ -56,6 +62,8 @@ Flipkart
 Myntra
 📦 83% of orders are successfully delivered
 🔁 Low return and cancellation rates
+
+
 📈 Business Impact
 Identified high-value customer segments for targeted marketing
 Highlighted top-performing regions and channels
