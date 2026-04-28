@@ -19,30 +19,41 @@ How orders are being fulfilled
 
 🛠️ Tools & Techniques
 Microsoft Excel
+
 Pivot Tables
+
 Pivot Charts
+
 Slicers & Interactive Filters
+
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Dashboard Design
 
 
 🔄 Data Analysis Workflow
+
 1. Data Cleaning
 Removed duplicates and inconsistencies
 Handled missing/null values
 Standardized categorical fields (Gender, Category)
 Created derived columns (Age Groups: Adult, Senior, Teenager)
+
 2. Data Analysis
 Analyzed sales trends across months
 Compared customer segments (Gender & Age)
 Evaluated performance by state and channel
 Examined order status distribution
+
 3. Data Visualization
+
 Built an interactive dashboard using:
 Bar Charts
 Pie Charts
 Trend Analysis
+
 Integrated slicers for dynamic filtering:
 Category
 Channel
@@ -51,21 +62,28 @@ Month
 
 📊 Key Insights
 👩 Women contribute 49% of total sales
+
 👨‍👩‍👧 Adults are the primary customer segment
+
 📍 Top-performing states:
 Maharashtra
 Telangana
 Karnataka
+
 🛒 Top sales channels:
 Amazon
 Flipkart
 Myntra
 📦 83% of orders are successfully delivered
+
 🔁 Low return and cancellation rates
 
 
 📈 Business Impact
 Identified high-value customer segments for targeted marketing
+
 Highlighted top-performing regions and channels
+
 Provided insights to improve operational efficiency
+
 Enabled stakeholders to make data-driven decisions
